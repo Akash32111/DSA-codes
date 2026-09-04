@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/noob-programer-ok/DSA-codes/tree/master/0349-intersection-of-two-arrays) |
 | [1470-shuffle-the-array](https://github.com/noob-programer-ok/DSA-codes/tree/master/1470-shuffle-the-array) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/noob-programer-ok/DSA-codes/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3903-smallest-stable-index-i](https://github.com/noob-programer-ok/DSA-codes/tree/master/3903-smallest-stable-index-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -70,4 +71,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3876-construct-uniform-parity-array-ii](https://github.com/noob-programer-ok/DSA-codes/tree/master/3876-construct-uniform-parity-array-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [3903-smallest-stable-index-i](https://github.com/noob-programer-ok/DSA-codes/tree/master/3903-smallest-stable-index-i) |
 <!---LeetCode Topics End-->
