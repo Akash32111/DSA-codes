@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/noob-programer-ok/DSA-codes/tree/master/0015-3sum) |
 | [0054-spiral-matrix](https://github.com/noob-programer-ok/DSA-codes/tree/master/0054-spiral-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/noob-programer-ok/DSA-codes/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/noob-programer-ok/DSA-codes/tree/master/0136-single-number) |
 | [0349-intersection-of-two-arrays](https://github.com/noob-programer-ok/DSA-codes/tree/master/0349-intersection-of-two-arrays) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/noob-programer-ok/DSA-codes/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1470-shuffle-the-array](https://github.com/noob-programer-ok/DSA-codes/tree/master/1470-shuffle-the-array) |
@@ -84,4 +85,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/noob-programer-ok/DSA-codes/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/noob-programer-ok/DSA-codes/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
