@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/noob-programer-ok/DSA-codes/tree/master/0007-reverse-integer) |
 | [0066-plus-one](https://github.com/noob-programer-ok/DSA-codes/tree/master/0066-plus-one) |
 | [3870-count-commas-in-range](https://github.com/noob-programer-ok/DSA-codes/tree/master/3870-count-commas-in-range) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/noob-programer-ok/DSA-codes/tree/master/3876-construct-uniform-parity-array-ii) |
