@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/noob-programer-ok/DSA-codes/tree/master/0021-merge-two-sorted-lists) |
 | [0876-middle-of-the-linked-list](https://github.com/noob-programer-ok/DSA-codes/tree/master/0876-middle-of-the-linked-list) |
 ## String
 |  |
@@ -98,4 +99,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/noob-programer-ok/DSA-codes/tree/master/0136-single-number) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/noob-programer-ok/DSA-codes/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
