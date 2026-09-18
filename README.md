@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1848-minimum-distance-to-the-target-element](https://github.com/noob-programer-ok/DSA-codes/tree/master/1848-minimum-distance-to-the-target-element) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/noob-programer-ok/DSA-codes/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/noob-programer-ok/DSA-codes/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/noob-programer-ok/DSA-codes/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/noob-programer-ok/DSA-codes/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/noob-programer-ok/DSA-codes/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3903-smallest-stable-index-i](https://github.com/noob-programer-ok/DSA-codes/tree/master/3903-smallest-stable-index-i) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/noob-programer-ok/DSA-codes/tree/master/0066-plus-one) |
 | [0231-power-of-two](https://github.com/noob-programer-ok/DSA-codes/tree/master/0231-power-of-two) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/noob-programer-ok/DSA-codes/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/noob-programer-ok/DSA-codes/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3870-count-commas-in-range](https://github.com/noob-programer-ok/DSA-codes/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/noob-programer-ok/DSA-codes/tree/master/3871-count-commas-in-range-ii) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/noob-programer-ok/DSA-codes/tree/master/3876-construct-uniform-parity-array-ii) |
