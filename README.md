@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/noob-programer-ok/DSA-codes/tree/master/0066-plus-one) |
 | [0231-power-of-two](https://github.com/noob-programer-ok/DSA-codes/tree/master/0231-power-of-two) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/noob-programer-ok/DSA-codes/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
+| [2894-divisible-and-non-divisible-sums-difference](https://github.com/noob-programer-ok/DSA-codes/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/noob-programer-ok/DSA-codes/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/noob-programer-ok/DSA-codes/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3870-count-commas-in-range](https://github.com/noob-programer-ok/DSA-codes/tree/master/3870-count-commas-in-range) |
