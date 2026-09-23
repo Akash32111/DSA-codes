@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/noob-programer-ok/DSA-codes/tree/master/0074-search-a-2d-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/noob-programer-ok/DSA-codes/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/noob-programer-ok/DSA-codes/tree/master/0136-single-number) |
+| [0334-increasing-triplet-subsequence](https://github.com/noob-programer-ok/DSA-codes/tree/master/0334-increasing-triplet-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/noob-programer-ok/DSA-codes/tree/master/0349-intersection-of-two-arrays) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/noob-programer-ok/DSA-codes/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1389-create-target-array-in-the-given-order](https://github.com/noob-programer-ok/DSA-codes/tree/master/1389-create-target-array-in-the-given-order) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/noob-programer-ok/DSA-codes/tree/master/0334-increasing-triplet-subsequence) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/noob-programer-ok/DSA-codes/tree/master/1221-split-a-string-in-balanced-strings) |
 ## Graph Theory
 |  |
@@ -140,4 +142,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/noob-programer-ok/DSA-codes/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/noob-programer-ok/DSA-codes/tree/master/0334-increasing-triplet-subsequence) |
 <!---LeetCode Topics End-->
