@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/noob-programer-ok/DSA-codes/tree/master/0074-search-a-2d-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/noob-programer-ok/DSA-codes/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/noob-programer-ok/DSA-codes/tree/master/0136-single-number) |
+| [0238-product-of-array-except-self](https://github.com/noob-programer-ok/DSA-codes/tree/master/0238-product-of-array-except-self) |
 | [0334-increasing-triplet-subsequence](https://github.com/noob-programer-ok/DSA-codes/tree/master/0334-increasing-triplet-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/noob-programer-ok/DSA-codes/tree/master/0349-intersection-of-two-arrays) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/noob-programer-ok/DSA-codes/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/noob-programer-ok/DSA-codes/tree/master/0238-product-of-array-except-self) |
 | [3903-smallest-stable-index-i](https://github.com/noob-programer-ok/DSA-codes/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/noob-programer-ok/DSA-codes/tree/master/3904-smallest-stable-index-ii) |
 ## Counting Sort
