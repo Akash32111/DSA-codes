@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/noob-programer-ok/DSA-codes/tree/master/0015-3sum) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/noob-programer-ok/DSA-codes/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0344-reverse-string](https://github.com/noob-programer-ok/DSA-codes/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/noob-programer-ok/DSA-codes/tree/master/0349-intersection-of-two-arrays) |
 | [0876-middle-of-the-linked-list](https://github.com/noob-programer-ok/DSA-codes/tree/master/0876-middle-of-the-linked-list) |
 ## Sorting
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/noob-programer-ok/DSA-codes/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0344-reverse-string](https://github.com/noob-programer-ok/DSA-codes/tree/master/0344-reverse-string) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/noob-programer-ok/DSA-codes/tree/master/1221-split-a-string-in-balanced-strings) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/noob-programer-ok/DSA-codes/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 ## String Matching
