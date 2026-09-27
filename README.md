@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/noob-programer-ok/DSA-codes/tree/master/0066-plus-one) |
 | [0231-power-of-two](https://github.com/noob-programer-ok/DSA-codes/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/noob-programer-ok/DSA-codes/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/noob-programer-ok/DSA-codes/tree/master/0342-power-of-four) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/noob-programer-ok/DSA-codes/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/noob-programer-ok/DSA-codes/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/noob-programer-ok/DSA-codes/tree/master/2894-divisible-and-non-divisible-sums-difference) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/noob-programer-ok/DSA-codes/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/noob-programer-ok/DSA-codes/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/noob-programer-ok/DSA-codes/tree/master/0342-power-of-four) |
 ## Recursion
 |  |
 | ------- |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/noob-programer-ok/DSA-codes/tree/master/0203-remove-linked-list-elements) |
 | [0231-power-of-two](https://github.com/noob-programer-ok/DSA-codes/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/noob-programer-ok/DSA-codes/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/noob-programer-ok/DSA-codes/tree/master/0342-power-of-four) |
 ## Greedy
 |  |
 | ------- |
