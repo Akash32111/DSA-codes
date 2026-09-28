@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/noob-programer-ok/DSA-codes/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0509-fibonacci-number](https://github.com/noob-programer-ok/DSA-codes/tree/master/0509-fibonacci-number) |
 ## Linked List
 |  |
 | ------- |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/noob-programer-ok/DSA-codes/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/noob-programer-ok/DSA-codes/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/noob-programer-ok/DSA-codes/tree/master/0342-power-of-four) |
+| [0509-fibonacci-number](https://github.com/noob-programer-ok/DSA-codes/tree/master/0509-fibonacci-number) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/noob-programer-ok/DSA-codes/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/noob-programer-ok/DSA-codes/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/noob-programer-ok/DSA-codes/tree/master/2894-divisible-and-non-divisible-sums-difference) |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/noob-programer-ok/DSA-codes/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/noob-programer-ok/DSA-codes/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/noob-programer-ok/DSA-codes/tree/master/0342-power-of-four) |
+| [0509-fibonacci-number](https://github.com/noob-programer-ok/DSA-codes/tree/master/0509-fibonacci-number) |
 ## Greedy
 |  |
 | ------- |
@@ -157,4 +160,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/noob-programer-ok/DSA-codes/tree/master/0334-increasing-triplet-subsequence) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/noob-programer-ok/DSA-codes/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
