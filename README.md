@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1389-create-target-array-in-the-given-order](https://github.com/noob-programer-ok/DSA-codes/tree/master/1389-create-target-array-in-the-given-order) |
 | [1470-shuffle-the-array](https://github.com/noob-programer-ok/DSA-codes/tree/master/1470-shuffle-the-array) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/noob-programer-ok/DSA-codes/tree/master/1822-sign-of-the-product-of-an-array) |
+| [1827-minimum-operations-to-make-the-array-increasing](https://github.com/noob-programer-ok/DSA-codes/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/noob-programer-ok/DSA-codes/tree/master/1848-minimum-distance-to-the-target-element) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/noob-programer-ok/DSA-codes/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/noob-programer-ok/DSA-codes/tree/master/2798-number-of-employees-who-met-the-target) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/noob-programer-ok/DSA-codes/tree/master/0334-increasing-triplet-subsequence) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/noob-programer-ok/DSA-codes/tree/master/1221-split-a-string-in-balanced-strings) |
+| [1827-minimum-operations-to-make-the-array-increasing](https://github.com/noob-programer-ok/DSA-codes/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 ## Graph Theory
 |  |
 | ------- |
