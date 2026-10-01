@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/noob-programer-ok/DSA-codes/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0299-bulls-and-cows](https://github.com/noob-programer-ok/DSA-codes/tree/master/0299-bulls-and-cows) |
 | [0344-reverse-string](https://github.com/noob-programer-ok/DSA-codes/tree/master/0344-reverse-string) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/noob-programer-ok/DSA-codes/tree/master/1221-split-a-string-in-balanced-strings) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/noob-programer-ok/DSA-codes/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/noob-programer-ok/DSA-codes/tree/master/0217-contains-duplicate) |
+| [0299-bulls-and-cows](https://github.com/noob-programer-ok/DSA-codes/tree/master/0299-bulls-and-cows) |
 | [0349-intersection-of-two-arrays](https://github.com/noob-programer-ok/DSA-codes/tree/master/0349-intersection-of-two-arrays) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/noob-programer-ok/DSA-codes/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/noob-programer-ok/DSA-codes/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0299-bulls-and-cows](https://github.com/noob-programer-ok/DSA-codes/tree/master/0299-bulls-and-cows) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/noob-programer-ok/DSA-codes/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/noob-programer-ok/DSA-codes/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Bit Manipulation
