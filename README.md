@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/noob-programer-ok/DSA-codes/tree/master/0054-spiral-matrix) |
+| [1103-distribute-candies-to-people](https://github.com/noob-programer-ok/DSA-codes/tree/master/1103-distribute-candies-to-people) |
 | [1389-create-target-array-in-the-given-order](https://github.com/noob-programer-ok/DSA-codes/tree/master/1389-create-target-array-in-the-given-order) |
 | [3498-reverse-degree-of-a-string](https://github.com/noob-programer-ok/DSA-codes/tree/master/3498-reverse-degree-of-a-string) |
 ## Math
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/noob-programer-ok/DSA-codes/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/noob-programer-ok/DSA-codes/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/noob-programer-ok/DSA-codes/tree/master/0509-fibonacci-number) |
+| [1103-distribute-candies-to-people](https://github.com/noob-programer-ok/DSA-codes/tree/master/1103-distribute-candies-to-people) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/noob-programer-ok/DSA-codes/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2769-find-the-maximum-achievable-number](https://github.com/noob-programer-ok/DSA-codes/tree/master/2769-find-the-maximum-achievable-number) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/noob-programer-ok/DSA-codes/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
