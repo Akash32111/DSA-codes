@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1822-sign-of-the-product-of-an-array](https://github.com/noob-programer-ok/DSA-codes/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/noob-programer-ok/DSA-codes/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/noob-programer-ok/DSA-codes/tree/master/1848-minimum-distance-to-the-target-element) |
+| [1920-build-array-from-permutation](https://github.com/noob-programer-ok/DSA-codes/tree/master/1920-build-array-from-permutation) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/noob-programer-ok/DSA-codes/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/noob-programer-ok/DSA-codes/tree/master/2798-number-of-employees-who-met-the-target) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/noob-programer-ok/DSA-codes/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/noob-programer-ok/DSA-codes/tree/master/0054-spiral-matrix) |
 | [1103-distribute-candies-to-people](https://github.com/noob-programer-ok/DSA-codes/tree/master/1103-distribute-candies-to-people) |
 | [1389-create-target-array-in-the-given-order](https://github.com/noob-programer-ok/DSA-codes/tree/master/1389-create-target-array-in-the-given-order) |
+| [1920-build-array-from-permutation](https://github.com/noob-programer-ok/DSA-codes/tree/master/1920-build-array-from-permutation) |
 | [3498-reverse-degree-of-a-string](https://github.com/noob-programer-ok/DSA-codes/tree/master/3498-reverse-degree-of-a-string) |
 ## Math
 |  |
