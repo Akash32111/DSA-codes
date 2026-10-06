@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1103-distribute-candies-to-people](https://github.com/noob-programer-ok/DSA-codes/tree/master/1103-distribute-candies-to-people) |
 | [1688-count-of-matches-in-tournament](https://github.com/noob-programer-ok/DSA-codes/tree/master/1688-count-of-matches-in-tournament) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/noob-programer-ok/DSA-codes/tree/master/1822-sign-of-the-product-of-an-array) |
+| [2469-convert-the-temperature](https://github.com/noob-programer-ok/DSA-codes/tree/master/2469-convert-the-temperature) |
 | [2549-count-distinct-numbers-on-board](https://github.com/noob-programer-ok/DSA-codes/tree/master/2549-count-distinct-numbers-on-board) |
 | [2769-find-the-maximum-achievable-number](https://github.com/noob-programer-ok/DSA-codes/tree/master/2769-find-the-maximum-achievable-number) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/noob-programer-ok/DSA-codes/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
