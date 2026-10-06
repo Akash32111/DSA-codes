@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2549-count-distinct-numbers-on-board](https://github.com/noob-programer-ok/DSA-codes/tree/master/2549-count-distinct-numbers-on-board) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/noob-programer-ok/DSA-codes/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3668-restore-finishing-order](https://github.com/noob-programer-ok/DSA-codes/tree/master/3668-restore-finishing-order) |
+| [3945-digit-frequency-score](https://github.com/noob-programer-ok/DSA-codes/tree/master/3945-digit-frequency-score) |
 ## Binary Search
 |  |
 | ------- |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3871-count-commas-in-range-ii](https://github.com/noob-programer-ok/DSA-codes/tree/master/3871-count-commas-in-range-ii) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/noob-programer-ok/DSA-codes/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3895-count-digit-appearances](https://github.com/noob-programer-ok/DSA-codes/tree/master/3895-count-digit-appearances) |
+| [3945-digit-frequency-score](https://github.com/noob-programer-ok/DSA-codes/tree/master/3945-digit-frequency-score) |
 ## Prefix Sum
 |  |
 | ------- |
