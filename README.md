@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/noob-programer-ok/DSA-codes/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/noob-programer-ok/DSA-codes/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1920-build-array-from-permutation](https://github.com/noob-programer-ok/DSA-codes/tree/master/1920-build-array-from-permutation) |
+| [1929-concatenation-of-array](https://github.com/noob-programer-ok/DSA-codes/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/noob-programer-ok/DSA-codes/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/noob-programer-ok/DSA-codes/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2549-count-distinct-numbers-on-board](https://github.com/noob-programer-ok/DSA-codes/tree/master/2549-count-distinct-numbers-on-board) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1389-create-target-array-in-the-given-order](https://github.com/noob-programer-ok/DSA-codes/tree/master/1389-create-target-array-in-the-given-order) |
 | [1688-count-of-matches-in-tournament](https://github.com/noob-programer-ok/DSA-codes/tree/master/1688-count-of-matches-in-tournament) |
 | [1920-build-array-from-permutation](https://github.com/noob-programer-ok/DSA-codes/tree/master/1920-build-array-from-permutation) |
+| [1929-concatenation-of-array](https://github.com/noob-programer-ok/DSA-codes/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/noob-programer-ok/DSA-codes/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2549-count-distinct-numbers-on-board](https://github.com/noob-programer-ok/DSA-codes/tree/master/2549-count-distinct-numbers-on-board) |
 | [3498-reverse-degree-of-a-string](https://github.com/noob-programer-ok/DSA-codes/tree/master/3498-reverse-degree-of-a-string) |
