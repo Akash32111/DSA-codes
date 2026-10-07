@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/noob-programer-ok/DSA-codes/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1389-create-target-array-in-the-given-order](https://github.com/noob-programer-ok/DSA-codes/tree/master/1389-create-target-array-in-the-given-order) |
 | [1470-shuffle-the-array](https://github.com/noob-programer-ok/DSA-codes/tree/master/1470-shuffle-the-array) |
+| [1512-number-of-good-pairs](https://github.com/noob-programer-ok/DSA-codes/tree/master/1512-number-of-good-pairs) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/noob-programer-ok/DSA-codes/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/noob-programer-ok/DSA-codes/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/noob-programer-ok/DSA-codes/tree/master/1848-minimum-distance-to-the-target-element) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0299-bulls-and-cows](https://github.com/noob-programer-ok/DSA-codes/tree/master/0299-bulls-and-cows) |
 | [0349-intersection-of-two-arrays](https://github.com/noob-programer-ok/DSA-codes/tree/master/0349-intersection-of-two-arrays) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/noob-programer-ok/DSA-codes/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1512-number-of-good-pairs](https://github.com/noob-programer-ok/DSA-codes/tree/master/1512-number-of-good-pairs) |
 | [2549-count-distinct-numbers-on-board](https://github.com/noob-programer-ok/DSA-codes/tree/master/2549-count-distinct-numbers-on-board) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/noob-programer-ok/DSA-codes/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3668-restore-finishing-order](https://github.com/noob-programer-ok/DSA-codes/tree/master/3668-restore-finishing-order) |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/noob-programer-ok/DSA-codes/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/noob-programer-ok/DSA-codes/tree/master/0509-fibonacci-number) |
 | [1103-distribute-candies-to-people](https://github.com/noob-programer-ok/DSA-codes/tree/master/1103-distribute-candies-to-people) |
+| [1512-number-of-good-pairs](https://github.com/noob-programer-ok/DSA-codes/tree/master/1512-number-of-good-pairs) |
 | [1688-count-of-matches-in-tournament](https://github.com/noob-programer-ok/DSA-codes/tree/master/1688-count-of-matches-in-tournament) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/noob-programer-ok/DSA-codes/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2469-convert-the-temperature](https://github.com/noob-programer-ok/DSA-codes/tree/master/2469-convert-the-temperature) |
@@ -169,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0299-bulls-and-cows](https://github.com/noob-programer-ok/DSA-codes/tree/master/0299-bulls-and-cows) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/noob-programer-ok/DSA-codes/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/noob-programer-ok/DSA-codes/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1512-number-of-good-pairs](https://github.com/noob-programer-ok/DSA-codes/tree/master/1512-number-of-good-pairs) |
 ## Bit Manipulation
 |  |
 | ------- |
