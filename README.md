@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1389-create-target-array-in-the-given-order](https://github.com/noob-programer-ok/DSA-codes/tree/master/1389-create-target-array-in-the-given-order) |
 | [1470-shuffle-the-array](https://github.com/noob-programer-ok/DSA-codes/tree/master/1470-shuffle-the-array) |
 | [1512-number-of-good-pairs](https://github.com/noob-programer-ok/DSA-codes/tree/master/1512-number-of-good-pairs) |
+| [1672-richest-customer-wealth](https://github.com/noob-programer-ok/DSA-codes/tree/master/1672-richest-customer-wealth) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/noob-programer-ok/DSA-codes/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/noob-programer-ok/DSA-codes/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/noob-programer-ok/DSA-codes/tree/master/1848-minimum-distance-to-the-target-element) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/noob-programer-ok/DSA-codes/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/noob-programer-ok/DSA-codes/tree/master/0074-search-a-2d-matrix) |
+| [1672-richest-customer-wealth](https://github.com/noob-programer-ok/DSA-codes/tree/master/1672-richest-customer-wealth) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/noob-programer-ok/DSA-codes/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Simulation
 |  |
