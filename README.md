@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/noob-programer-ok/DSA-codes/tree/master/1512-number-of-good-pairs) |
 | [1688-count-of-matches-in-tournament](https://github.com/noob-programer-ok/DSA-codes/tree/master/1688-count-of-matches-in-tournament) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/noob-programer-ok/DSA-codes/tree/master/1822-sign-of-the-product-of-an-array) |
+| [2235-add-two-integers](https://github.com/noob-programer-ok/DSA-codes/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/noob-programer-ok/DSA-codes/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/noob-programer-ok/DSA-codes/tree/master/2469-convert-the-temperature) |
 | [2549-count-distinct-numbers-on-board](https://github.com/noob-programer-ok/DSA-codes/tree/master/2549-count-distinct-numbers-on-board) |
